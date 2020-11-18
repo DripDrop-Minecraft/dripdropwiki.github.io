@@ -1,0 +1,22 @@
+<center><h1>ISaT Wiki</h1></center>
+
+* [首页](README.md)
+* 初遇
+    * [关于无限时空](know.md)
+* 加入
+    * [游戏都没装好](greenhand.md)
+    * [萌新入服指南](start.md)
+    * [入服常见问题](joinproblem.md)
+    * [需要遵守规则](rules.md)
+* 初识
+    * [基础入门指令](command.md)
+    * [刚玩常问问题](question.md)
+* 深入
+    * [领地插件](residence.md)
+    * [拓展物品](itemsadder.md)
+    * [全服点歌](allmusic.md)
+    * [顶帖奖励](bbstopper.md)
+    * [宠物插件](companions.md)
+    * [特效插件](procosmetics.md)
+    * [箱子商店](quickshop.md)
+    * [称号插件](tags.md)
