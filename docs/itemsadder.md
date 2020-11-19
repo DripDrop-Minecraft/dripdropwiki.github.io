@@ -3,39 +3,37 @@
 
 1. **打开拓展物品百科全书** `/ia`
 
-![](pics/iabook.png)
+![拓展物品百科全书](pics/iabook.png)
 
 ## 查找拓展物品的合成表
 
-1. **你可以点击按钮：`放大镜` ![](pics/icon_search.png) 来快速搜索物品**
+1. **你可以点击按钮：<img src="pics/icon_search.png" class="icon"/> `放大镜`  来快速搜索物品**
 
     在`告示牌`中输入你要查找的物品, 然后点击**完成**即可搜索
 
-![](pics/search1.png)
+    ![搜索拓展物品](pics/search1.png)
 
-![](pics/search2.png)
+    ![甜心之剑](pics/search2.png)
 
 
 2. **手持拓展物品输入`/iarecipe`快速获得当前物品的合成表**
 
 3. **在百科全书里面你可以随意的翻翻点点，查看各个物品的合成表**
 
-![](pics/iarecipe.png)
-
-
+![柯尔特蟒蛇手枪的合成表](pics/iarecipe.png)
 
 ## emoji表情
 1. **打开emoji表情的书** `/iaemoji`
 
-![](pics/iaemoji.png)
+![emoji表情书](pics/iaemoji.png)
 
-2.**你可以在聊天和称号中使用emoji表情 比如在聊天框里输入 `:mc_apple:` 来打出苹果的表情**
+2. **你可以在聊天和称号中使用emoji表情 比如在聊天框里输入 `:mc_apple:` 来打出苹果的表情**
 
-![](pics/applechat.png)
+![在聊天栏里输入一个苹果emoji](pics/applechat.png)
 
 3. **你可以在用铁砧给你的物品命名 `&f:mc_apple:` 让物品的名字变成苹果表情 (如果不加&f,就会是一个斜着的苹果)**
 
-![](pics/apple.png)
+<img src="pics/apple.png" class="size" alt="给苹果命名为emoji的苹果"/>
 
 ## 为服务器添加物品
 

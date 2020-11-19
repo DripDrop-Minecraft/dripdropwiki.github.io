@@ -1,14 +1,14 @@
 > 💔 Companions插件并不是一个高度自定义的插件，所以我们的宠物都很普通，请不要对宠物有过高的期待
 ## 宠物图鉴
-输入指令 `/pet` ，点击 ![](pics/book.png) `书本` 即可打开**宠物图鉴**
+输入指令 `/pet` ，点击 <img src="pics/book.png" class="icon" alt="书本图标"/> `书本` 即可打开**宠物图鉴**
 
-![](pics/petbook.png)
+![宠物图鉴](pics/petbook.png)
 ## 宠物仓库
-输入指令 `/pet` ，点击 ![](pics/chest.png) `箱子` 即可打开**宠物仓库**
+输入指令 `/pet` ，点击 <img src="pics/chest.png" class="icon" alt="箱子图标"/> `箱子` 即可打开**宠物仓库**
 
 你可以在宠物仓库里查看你已经拥有的宠物和你的宠物金币
 
-![](pics/petpaper.png)
+![宠物仓库](pics/petpaper.png)
 
 ## 纪念限定宠物
 > 服务器每个月都会推出一只**纪念限定宠物**，用来奖励购买了 `用爱发电机` 的玩家
@@ -17,20 +17,20 @@
 
 比如2020年10月纪念宠物月兔(2020.10.1为中秋) 
 
-![](pics/petmoonrabbit.png)
+<img src="pics/petmoonrabbit.png" class="size" alt="月兔模型"/>
 
 比如2020年11月纪念宠物小幽灵(2020.11.1为万圣节) 
 
-![](pics/petghost.png)
+<img src="pics/petghost.png" class="size" alt="幽灵模型"/>
 
 纪念限定宠物发动技能时也会有**额外的动画效果**
 
-![](pics/petani.png)
+![限定宠物的额外动画](pics/petani.png)
 
 ## 宠物能力
 > 宠物能力是给予你药水效果，或定时执行某一个指令，所以并不会很强大
 
-![](pics/petability.png)
+![宠物能力](pics/petability.png)
 
 ## 宠物金币
 > 宠物金币是用来购买宠物的货币，独立于木锄币，玩家之间也无法交易

@@ -1,12 +1,12 @@
-> 所有的指令在游戏里输入 / 然后按下 Tab键 即可自动补全
+> ✏️ 所有的指令在游戏按 Tab键 都可自动补全
 ## 登陆与注册
-> <font color=red>请勿使用安全性过低的密码! </font>
+> <font color=red>请勿使用如 `123456` 这样安全性过低的密码! </font>
 
-1. **注册** `/register <密码> <重复一次密码>`  例子: `/register a123456 a123456`
+1. **注册** `/register <密码> <重复一次密码>`  例子: `/register china2020 china2020`
 
-2. **登陆** `/login <密码>` 例子: `/login a123456`
+2. **登陆** `/login <密码>` 例子: `/login china2020`
 
-3. **更换密码** `/changepassword <旧密码> <新密码>` 例子: `/changepassword a123456 a123456789`
+3. **更换密码** `/changepassword <旧密码> <新密码>` 例子: `/changepassword china2020 china2077`
 
 4. **正版验证** `/premium` (需要二次输入)
 

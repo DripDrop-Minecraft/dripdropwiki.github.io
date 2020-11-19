@@ -2,30 +2,31 @@
     
 1. **先打开顶帖菜单，输入指令 `/top`**
 
-![](pics/bbstopper.png)
+![顶顶贴菜单界面](pics/bbstopper.png)
 
 点击**头颅**按钮，然后在聊天框里输入你的**论坛ID**，为防止出错，需要输入两次
 
 > 💡 论坛ID即为你论坛里的昵称，我的就是neverlag
 
-![](pics/mcbbs.png)
+<img src="pics/mcbbs.png" class="size"/>
+
 ## 获取服务器宣传贴链接
-1. **点击 ![](pics/compass.png) `指南针` 获取服务器宣传贴链接**
+1. **点击 <img src="pics/compass.png" class="icon"/> `指南针` 获取服务器宣传贴链接**
 
     然后在聊天框里点击链接，选择**是**，打开网页
 
 2. **目前我们服务器的[宣传贴链接](https://www.mcbbs.net/thread-1129320-1-1.html)为`https://www.mcbbs.net/thread-1129320-1-1.html`**
 
 ## 使用道具 - 服务器提升卡
-> 💡 服务器提升卡需要花费80金粒购买,而且顶帖需要MCBBS等级大于等于4级
+> 💡 服务器提升卡需要花费80金粒购买,而且顶帖需要MCBBS等级大于等于<font color=red>4级</font>
 
 **将宣传贴拉到最下面**，点击 **使用道具-服务器提升卡**
 
-![](pics/dingtie.png)  
+<img src="pics/dingtie.png" class="size"/><br/>
 
-![](pics/buytop.png)  
+<img src="pics/buytop.png" class="size"/><br/>
 
-![](pics/usetop.png)
+<img src="pics/usetop.png" class="size"/>
 
 ## 自动获得奖励
 > 💡 一天只能获得一次奖励，如果你一天顶了两次贴，第二天你上线时会自动发放奖励

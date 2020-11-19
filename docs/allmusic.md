@@ -46,9 +46,11 @@
 > 有的傻逼自己点个VIP歌听不了，还骂我们服听歌都要VIP，我是真的快气笑了
 
 1. **选择你喜欢的歌右键复制链接**
+
 ![](pics/wangyiyun.png)
 
 2. **在游戏里输入 `/music <链接>` 即可点歌**
+
 ![](pics/musiccopy.png)
 
 3. **如果你知道一首歌的id，你也可以通过id点歌**
@@ -57,7 +59,8 @@
 
 ## 设置歌词
 
-1. **输入`music hud enable lyric` 打开歌词(再次输入关闭歌词)**
+1. **输入`/music hud enable lyric` 打开歌词(再次输入关闭歌词)**
+
 ![](pics/musiclyric.png)
 
 2. **设置歌词位置**

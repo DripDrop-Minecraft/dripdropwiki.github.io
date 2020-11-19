@@ -1,17 +1,15 @@
-<center><h1>ISaT Wiki</h1></center>
-
 * [首页](README.md)
+* 听闻
+    * [无限时空](aboutISaT.md)
 * 初遇
-    * [关于无限时空](know.md)
-* 加入
-    * [游戏都没装好](greenhand.md)
-    * [萌新入服指南](start.md)
-    * [入服常见问题](joinproblem.md)
-    * [需要遵守规则](rules.md)
-* 初识
-    * [基础入门指令](command.md)
-    * [刚玩常问问题](question.md)
-* 深入
+    * [游戏安装](installgame.md)
+    * [入服指南](firstjoin.md)
+    * [入服问题](joinproblem.md)
+    * [规则约定](rules.md)
+* 初知
+    * [基础指令](command.md)
+    * [常问问题](question.md)
+* 相识
     * [领地插件](residence.md)
     * [拓展物品](itemsadder.md)
     * [全服点歌](allmusic.md)
@@ -20,3 +18,13 @@
     * [特效插件](procosmetics.md)
     * [箱子商店](quickshop.md)
     * [称号插件](tags.md)
+    * [破坏查询](coreprotect.md)
+    * [载具插件](vehicles.md)
+    * [时空小报](news.md)
+* 喜爱
+    * [氪金赞助](donate.md)
+    * [帮助我们](helpus.md)
+* 秘密
+    * [一些趣闻](eggs.md)
+    * [小小技巧](tips.md)
+    

@@ -2,7 +2,7 @@
 
 > 空间中的XYZ三个轴，服务器对Y轴(高度)不进行收费，也就是说按照占地面积收费，1个方块的面积需要1木锄币
 
-> 本服的圈地工具为 ![](pics/wooden_hoe.png) `木锄头` 
+> 本服的圈地工具为 <img src="pics/wooden_hoe.png" class="icon" alt="木锄头图标"/> `木锄头` 
 ## 领地的指令
 1. **领地插件帮助指令** `/res`
 
@@ -22,17 +22,17 @@
 
 ## 创建领地的简单教程
 
-1. 合成一个 `木锄头` ,在你想要圈起来的空间，比如图片中的小房子
+1. 合成一个 <img src="pics/wooden_hoe.png" class="icon" alt="木锄头图标"/> `木锄头` ,在你想要圈起来的空间，比如图片中的小房子
 
     用木锄头**左键点击**第一个点 **<font color=red>(红色羊毛)</font>**
 
     用木锄头**右键点击**第二个点 **<font color=blue>(蓝色羊毛)</font>**
 
-![](pics/resselect.png)
+![选择领地的两个点](pics/resselect.png)
 
 2. 选择的时候可以注意看聊天框里是否有提示信息，选择完毕后会告诉你圈领地需要的钱
 
-![](pics/rescreate.png)
+![选择领地两点的信息提示](pics/rescreate.png)
 
 3. 输入指令 `/res create <领地名>` 比如`/res create myhome`，这样你就创建了一个叫做myhome的领地
 
