@@ -40,7 +40,7 @@
 
 ~~我们认为Linux用户通常属于开发人员，因此不需要浪费时间查看这部分的教程（Linux玩家 -1）~~。
 
-> 一般来说，系统在安装JRE时会自动配置好 *Java* 环境。<font color=red>如果玩家在安装好JRE并准备进行游戏时却提示找不到 *Java*，请参考[这里](reference/javaconfig.md)</font>。
+> 一般来说，系统在安装JRE时会自动配置好 *Java* 环境。<font color=red>如果玩家在安装好JRE并准备进行游戏时却提示找不到 *Java*，请参考[这里](./reference/javaconfig.md)</font>。
 
 ## 下载启动器
 
@@ -58,7 +58,7 @@
 
 **<font color=red>请不要下载和使用来源不明的第三方启动器！！！</font>**
 
-> Mac以及Linux用户请猛戳[此处](reference/linuxmac.md)了解如何下载使用第三方启动器。
+> Mac以及Linux用户请猛戳[此处](./reference/linuxmac.md)了解如何下载使用第三方启动器。
 
 ![从群文件里下载整合包](pics/zhenghebao.png)
 
