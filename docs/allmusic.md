@@ -10,9 +10,9 @@
     
     如果用其他启动器的，请自行定位到 `.minecraft` 的文件里
 
-    ![](pics/fabric.png)
+    ![Fabric安装器](pics/fabric.png)
 
-    ![](pics/fabricapi.png)
+    ![Fabric安装成功](pics/fabricapi.png)
 
     正如提示所说，你还需要fabric api，点击[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/)前往网站下载
 2. **下载allmusic mod**
@@ -22,23 +22,23 @@
 
 3. **将下载好得allmusic与fabric api放入mods文件夹中**
 
-    ![](pics/mods.png)
+    ![将allmusic和fabric api放入mod文件夹](pics/mods.png)
 
 4. **启动游戏的时候注意选择带fabric的版本**
 
-    ![](pics/startgame.png)
+    ![选择带fabric的版本启动正版客户端](pics/startgame.png)
 
-    ![](pics/startgame2.png)
+    ![选择带fabric的版本启动HMCL](pics/startgame2.png)
 
 ## 在游戏里搜歌点歌
 
 1. **输入指令 `/music search <歌名>` 例子: `/music search 小星星`**
 
-    ![](pics/musicsearch.png)
+    ![搜索歌曲](pics/musicsearch.png)
 
     然后点击你要选择的歌曲
 
-    ![](pics/musicselect.png)
+    ![选择歌曲](pics/musicselect.png)
 
 ## 通过网易云音乐点特定的歌
 > 有些歌曲为网易云的VIP歌曲，并不是说服务器里要开VIP才能听
@@ -47,28 +47,46 @@
 
 1. **选择你喜欢的歌右键复制链接**
 
-![](pics/wangyiyun.png)
+    ![网易云音乐界面](pics/wangyiyun.png)
 
 2. **在游戏里输入 `/music <链接>` 即可点歌**
 
-![](pics/musiccopy.png)
+    比如 输入`/music https://music.163.com/song?id=26145413&userid=96846178`
+
+    ![复制链接在这里](pics/musiccopy.png)
 
 3. **如果你知道一首歌的id，你也可以通过id点歌**
 
     如这首歌的id为`26145413`，输入`/music 26145413` 同样也能点歌
 
-## 设置歌词
+## 设置歌词位置
 
-1. **输入`/music hud enable lyric` 打开歌词(再次输入关闭歌词)**
+1. **输入`/music hud enable` 打开所有信息(歌词lyric，歌曲信息info，队列list)**
 
-![](pics/musiclyric.png)
+    信息,歌词和队列都会默认显示在左上角
+
+    ![](pics/musichud.png)
+
+2. **关闭某一项**
+
+    如果你想关闭所有的信息 再次输入 `/music hud enable`
+
+    如果你想关闭歌词 输入 `/music hud enable lyric`
+
+    如果想关闭歌曲信息 输入 `/music hud enable info`
+
+    如果想关闭队列 输入 `/music hud enable list`
+
+    **一般我只开一个歌词lyric**
 
 2. **设置歌词位置**
+> 推荐坐标`/music hud lyric 150 180` 是显示在血量条上方
+
     输入`/music hud lyric <x> <y>` 设置歌词位置
 
     整个屏幕**左上角**为`0,0` , 血量条上方的位置为`150,180`
 
->    推荐坐标`/music hud lyric 150 180` 
+    ![](pics/musiclyric.png)
 
 ## 不想听歌了
 
