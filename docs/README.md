@@ -1,4 +1,5 @@
 # 首页
+
 > 欢迎来到 **DripDrop·我的世界·服务器** 的 **维基** 页面 
 
 DripDrop Wiki 并不能解决所有关于 Minecraft 的问题，它更多的是介绍 **DripDrop服务器** 中的**指令**、**插件**、**技巧**，以及一些**常见问题**
@@ -7,8 +8,7 @@ DripDrop Wiki 并不能解决所有关于 Minecraft 的问题，它更多的是�
 
 如果 Wiki 仍然不能解决你的问题，可以加入 `QQ群286338133` 尝试寻求 **老大哥的帮助**
 
+### Bilibili宣传视频：【Minecraft】初见DripDrop服务器
 
-<iframe src="//player.bilibili.com/player.html?aid=887375756&bvid=BV1WK4y1N7BD&cid=319120333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-![](pics/temp_banner.png)
+<iframe src="//player.bilibili.com/player.html?aid=887375756&bvid=BV1WK4y1N7BD&cid=319120333&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=480 height=360> </iframe>
 

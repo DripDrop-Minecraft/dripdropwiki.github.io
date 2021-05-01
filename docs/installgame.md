@@ -14,7 +14,7 @@
 
 > ❗ 如果玩家自己在网上搜寻下载安装包，请务必安装使用 **<font color=red><u>64</u></font>** 位的安装包（名字中标有64或x64的），否则游戏将发生内存不足异常。
 
-> ❗ 单纯玩游戏只需要安装JRE ，但是如果想要学习技术加入我们的开发行列，就请下载 [JDK](https://www.oracle.com/cn/java/technologies/javase/javase-jdk8-downloads.html)（Java开发工具组件，内含JRE) 。
+> ❗ 单纯玩游戏只需要安装JRE ，但是如果想要学习技术加入我们的开发行列，就请下载 [JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)（目前服务器使用插件支持Java 11) 。
 
 ## 安装Java
 
@@ -36,9 +36,9 @@
 
 不论是从官网、群文件还是别的地方下载安装包，最终应该会得到 `.dmg` 格式的文件，安装步骤和Windows用户类似。
 
-+ ~~**Linux平台玩家**~~
++ **Linux平台玩家**
 
-~~我们认为Linux用户通常属于开发人员，因此不需要浪费时间查看这部分的教程（Linux玩家 -1）~~。
+~~我们认为Linux用户通常属于开发人员，因此不需要浪费时间查看这部分的教程。~~（Linux玩家 -1并愤怒地发起DDoS攻击）
 
 > 一般来说，系统在安装JRE时会自动配置好 *Java* 环境。<font color=red>如果玩家在安装好JRE并准备进行游戏时却提示找不到 *Java*，请参考[这里](./reference/javaconfig.md)</font>。
 
@@ -82,4 +82,4 @@
 
 ![Minecraft1.16.3的初始界面](pics/hmcl3.png)
 
-![加入无限时空服务器](pics/hmcl4.png)
+![加入DripDrop服务器](pics/hmcl4.png)
