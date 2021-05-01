@@ -1,6 +1,6 @@
 * [首页](README.md)
 * 听闻
-    * [无限时空](aboutISaT.md)
+    * [DripDrop](aboutISaT.md)
 * 初遇
     * [游戏安装](installgame.md)
     * [入服指南](firstjoin.md)
