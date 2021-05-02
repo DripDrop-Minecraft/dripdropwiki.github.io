@@ -6,25 +6,25 @@
 
 > 👍 如果你的客户端已经安装了mod且能正常使用，则可以直接跳过此步。
 
-    1.16.X版本一般都使用fabric，可以在[jenkins](https://jenkins.modmuss50.me/job/FabricMC/job/fabric-installer/job/master/)网站下载Fabric安装器。
+1.16.X版本一般都使用fabric，可以在[jenkins](https://jenkins.modmuss50.me/job/FabricMC/job/fabric-installer/job/master/)网站下载Fabric安装器。
 
-    下载来的是`fabric-installer-xxx.jar`文件,双击打开，如果是正版启动器一般会自动选择安装路径。
+下载来的是`fabric-installer-xxx.jar`文件,双击打开，如果是正版启动器一般会自动选择安装路径。
     
-    如果用其他启动器的，请自行定位到 `.minecraft` 的文件里。
+如果用其他启动器的，请自行定位到 `.minecraft` 的文件里。
 
-    ![Fabric安装器](pics/fabric.png)
+![Fabric安装器](pics/fabric.png)
 
-    ![Fabric安装成功](pics/fabricapi.png)
+ ![Fabric安装成功](pics/fabricapi.png)
 
-    正如提示所说，你还需要fabric api，点击[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/)前往网站下载。
+正如提示所说，你还需要fabric api，点击[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/)前往网站下载。
 
 2. **下载allmusic mod**
 
 > 插件作者说网盘不再更新，让玩家去他的QQ群 `571239090` 内下载，不过你也可以在我们QQ群 `286338133` 内下载。
     
-    群文件里的 `✿全服点歌✿` 里也有点歌mod的文件。
+群文件里的 `全服点歌MOD` 里也有点歌mod的文件。
 
-3. **将下载好得allmusic与fabric api放入mods文件夹中**
+3. **将下载好的allmusic与fabric api放入mods文件夹中**
 
     ![将allmusic和fabric api放入mod文件夹](pics/mods.png)
 
@@ -64,7 +64,7 @@
 
 ## 设置歌词位置
 
-1. **输入`/music hud enable` 打开所有信息(歌词lyric，歌曲信息info，队列list)**
+1. **输入`/music hud enable` 打开所有信息（歌词lyric，歌曲信息info，队列list）**
 
     信息、歌词和歌曲队列都会默认显示在左上角。
 
@@ -86,11 +86,11 @@
 
 > 推荐坐标`/music hud lyric 150 180` 是显示在血量条上方。
 
-    输入`/music hud lyric <x> <y>` 设置歌词位置。
+输入`/music hud lyric <x> <y>` 设置歌词位置。
 
-    整个屏幕**左上角**为`0,0` , 血量条上方的位置为`150,180`。
+整个屏幕**左上角**为`0,0` , 血量条上方的位置为`150,180`。
 
-    ![](pics/musiclyric.png)
+![](pics/musiclyric.png)
 
 ## 不想听歌了
 
