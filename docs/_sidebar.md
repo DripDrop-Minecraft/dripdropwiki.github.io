@@ -1,6 +1,6 @@
 * [首页](README.md)
 * 听闻
-    * [DripDrop](aboutISaT.md)
+    * [DripDrop](about.md)
 * 初遇
     * [游戏安装](installgame.md)
     * [入服指南](firstjoin.md)
