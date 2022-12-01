@@ -1,14 +1,16 @@
 ## 安装Allmusic mod
 
-> 💡 需要安装allmusic的mod才能在游戏里听见点歌声音。
+> [!note]
+> 需要安装allmusic的mod才能在游戏里听见点歌声音。
 
 1. **在安装mod之前请先确认是否安装了 `fabric` 或者 `forge`**
 
-> 👍 如果你的客户端已经安装了mod且能正常使用，则可以直接跳过此步。
+> [!note]
+> 如果你的客户端已经安装了`fabric` 或者 `forge`且能正常使用，则可以直接跳过此步。
 
-1.16.X版本一般都使用fabric，可以在[jenkins](https://jenkins.modmuss50.me/job/FabricMC/job/fabric-installer/job/master/)网站下载Fabric安装器。
+我们推荐使用fabric，可以在[Fabric官方发布网站](https://fabricmc.net/use/)下载Fabric安装器。
 
-下载来的是`fabric-installer-xxx.jar`文件,双击打开，如果是正版启动器一般会自动选择安装路径。
+下载来的是`fabric-installer-xxx.jar`文件，双击打开，如果是正版启动器一般会自动选择安装路径。
     
 如果用其他启动器的，请自行定位到 `.minecraft` 的文件里。
 
@@ -20,15 +22,16 @@
 
 2. **下载allmusic mod**
 
+> [!note]
 > 插件作者说网盘不再更新，让玩家去他的QQ群 `571239090` 内下载，不过你也可以在我们QQ群 `286338133` 内下载。
     
-群文件里的 `全服点歌MOD` 里也有点歌mod的文件。
+群文件目录 `MOD分享` 里也有点歌mod的文件。
 
-3. **将下载好的allmusic与fabric api放入mods文件夹中**
+1. **将下载好的allmusic与fabric api放入mods文件夹中**
 
     ![将allmusic和fabric api放入mod文件夹](pics/mods.png)
 
-4. **启动游戏的时候注意选择带fabric的版本**
+2. **启动游戏的时候注意选择带fabric的版本**
 
     ![选择带fabric的版本启动正版客户端](pics/startgame.png)
 
@@ -46,7 +49,8 @@
 
 ## 通过网易云音乐点特定的歌
 
-> 有些歌曲为网易云的VIP歌曲，并不是说服务器里要开VIP才能听——所以听不了VIP歌曲请不要甩锅给我们。
+>[!note]
+>腐竹开了网易云音乐的VIP，服务器插件登录腐竹的账号之后，玩家就能在服务器中直接任意点播VIP歌曲了。
 
 1. **选择你喜欢的歌右键复制链接**
 
@@ -84,7 +88,8 @@
 
 3. **设置歌词位置**
 
-> 推荐坐标`/music hud lyric 150 180` 是显示在血量条上方。
+> [!tip]
+> 推荐使用坐标`/music hud lyric 150 180` ，这样歌词就会显示在血量条上方。
 
 输入`/music hud lyric <x> <y>` 设置歌词位置。
 
