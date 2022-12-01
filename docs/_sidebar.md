@@ -11,8 +11,8 @@
     * [入服指南](joinproblem.md)
 * 相知
     * [领地插件](residence.md)
-    * [🐖 **原版宠物**](mypet.md)
-    * [拓展物品](itemsadder.md)
+    * [🐖 原版宠物](mypet.md)
+    * [➕ 拓展物品](itemsadder.md)
     * [全服点歌](allmusic.md)
     * [系统商店](systemshop.md)
     * [全球市场](globalmarket.md)
