@@ -33,7 +33,7 @@
             className: "tip"
         },
         warning: {
-            label: "警告",
+            label: "划重点",
             icon: "icon-warning",
             className: "warning"
         },
