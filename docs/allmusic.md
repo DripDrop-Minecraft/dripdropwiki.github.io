@@ -76,7 +76,7 @@
 
 ### 默认显示
 
-默认将显示在左上角，显示歌词，歌曲封面，歌曲列表
+默认将显示在左下角，只显示歌词
 
 ![默认显示](pics/allmusic/default.png)
 
@@ -93,7 +93,7 @@
 
 + `/music hud enable list` 可以控制歌曲列表(list)的开关
 
-+ `/music hud enable pic` 可以控制歌曲封面(pic)的开关
++ `/music hud enable pic` 可以控制歌曲封面(pic)的开关(目前mod已经删除封面功能)
 
 + **`/music hud enable` 控制所有显示的开关**
 
