@@ -14,6 +14,7 @@
     * [🐖 原版宠物](mypet.md)
     * [➕ 拓展物品](itemsadder.md)
     * [🎻 全服点歌](allmusic.md)
+    * [✈️ 飞行时间](fly.md)
     * [系统商店](systemshop.md)
     * [全球市场](globalmarket.md)
     * [箱子商店](quickshop.md)
