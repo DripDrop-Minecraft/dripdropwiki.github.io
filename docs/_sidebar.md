@@ -12,6 +12,7 @@
 * 插件帮助
     * [🏠 领地插件](residence.md)
     * [🐖 原版宠物](mypet.md)
+    * [🧊 方块宠物](companions.md)
     * [➕ 拓展物品](itemsadder.md)
     * [📀 全服点歌](allmusic.md)
     * [✈️ 飞行时间](fly.md)
@@ -19,7 +20,6 @@
     * [🪑 家具插件](furniture.md)
     * [全球市场](globalmarket.md)
     * [箱子商店](quickshop.md)
-    * [宠物插件](companions.md)
     * [玩家称号](tags.md)
     * [特效插件](procosmetics.md)
     * [破坏查询](coreprotect.md)
