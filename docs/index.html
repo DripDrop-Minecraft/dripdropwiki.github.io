@@ -57,6 +57,26 @@
       'flexible-alerts': {
         style: 'flat'
       },
+      plugins: [
+        function (hook, vm) {
+          // load livere
+          hook.beforeEach(function(content) {
+              var comment = "<div id='lv-container' data-id='city' data-uid='MTAyMC81Nzc0NC8zNDIwNw=='></div>\n\n----\n"
+              return content + comment;
+          });
+
+          hook.doneEach(function() {
+             (function(d, s) {
+                 var j, e = d.getElementsByTagName(s)[0];
+                 if (typeof LivereTower === 'function') { return; }
+                 j = d.createElement(s);
+                 j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+                 j.async = true;
+                 e.parentNode.insertBefore(j, e);
+             })(document, 'script');
+          });
+        },
+      ],
       search: {
         maxAge: 300000, // 过期时间，单位毫秒，默认一天，目前设为5分钟
         paths: 'auto', // or 'auto'
@@ -74,6 +94,20 @@
         nextText: '下一节',
         crossChapter: true,
         crossChapterText: true,
+      },
+      count:{
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'right',
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese',
+        localization: {
+          words: "",
+          minute: ""
+        },
+        isExpected: true
       }
     }
   </script>
@@ -91,6 +125,8 @@
   <script src="localjs/search.min.js"></script>
   <!-- <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script> -->
   <!-- <script src="localjs/docsify-gifcontrol.js"></script> -->
+  <!-- 字数统计 -->
+  <script src="localjs/countable.min.js"></script>
 </body>
 
 </html>
