@@ -45,7 +45,13 @@
   <script>
     window.$docsify = {
       name: '',
-      repo: '',
+      repo:'true', // set the docsify show the corner
+      corner: {
+        // the icon link url to another site  
+        url: "https://gitee.com/neverlag/dripdrop_wiki", 
+        // the default preset icon in docsify-corner  
+        icon: "github", 
+      },
       auto2top: true,
       mergeNavbar: true,
       loadNavbar: true,
@@ -136,6 +142,8 @@
   <script src="localjs/countable.min.js"></script>
   <!-- 最后更新时间 -->
   <script src="localjs/time-updater.js"></script>
+  <!-- 右上角图标链接 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.js"></script>
 </body>
 
 </html>
