@@ -18,9 +18,9 @@
     * [✈️ 飞行时间](fly.md)
     * [🏪 每日商店](dailyshop.md)
     * [🪑 家具插件](furniture.md)
+    * [🏷️ 玩家称号](tags.md)
     * [全球市场](globalmarket.md)
     * [箱子商店](quickshop.md)
-    * [玩家称号](tags.md)
     * [特效插件](procosmetics.md)
     * [破坏查询](coreprotect.md)
 * 喜爱
