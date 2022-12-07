@@ -37,6 +37,10 @@
       border-color: black;
       width: 30%;
     }
+    :root {
+      --docsifytabs-border-color: #ededed;
+      --docsifytabs-tab-highlight-color: green;
+    }
   </style>
 </head>
 
@@ -121,6 +125,13 @@
         text: "最后更新时间: {docsify-updated}",
         formatUpdated: "{YYYY}年{MM}月{DD}日{HH}:{mm}",
         whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+      },
+      tabs: {
+        persist    : true,      // default
+        sync       : true,      // default
+        theme      : 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
       }
     }
   </script>
@@ -144,6 +155,12 @@
   <script src="localjs/time-updater.js"></script>
   <!-- 右上角图标链接 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.js"></script>
+  <!-- docsify (latest v4.x.x)-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- docsify-tabs (latest v1.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+ 
 </body>
 
 </html>
