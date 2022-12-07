@@ -108,6 +108,11 @@
           minute: ""
         },
         isExpected: true
+      },
+      timeUpdater: {
+        text: "最后更新时间: {docsify-updated}",
+        formatUpdated: "{YYYY}年{MM}月{DD}日{HH}:{mm}",
+        whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
       }
     }
   </script>
@@ -127,6 +132,8 @@
   <!-- <script src="localjs/docsify-gifcontrol.js"></script> -->
   <!-- 字数统计 -->
   <script src="localjs/countable.min.js"></script>
+  <!-- 最后更新时间 -->
+  <script src="localjs/time-updater.js"></script>
 </body>
 
 </html>
