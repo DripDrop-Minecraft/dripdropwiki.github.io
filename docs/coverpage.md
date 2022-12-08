@@ -1,6 +1,6 @@
 <img src="pics/logo/server-icon.svg" class="logo" alt="logo"/>
 
-# DripDrop服务器
+# DripDrop Wiki
 
 > 1.19.2
 
