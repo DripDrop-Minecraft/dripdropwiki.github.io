@@ -69,26 +69,6 @@
       'flexible-alerts': {
         style: 'flat'
       },
-      plugins: [
-        function (hook, vm) {
-          // load livere
-          hook.beforeEach(function(content) {
-              var comment = "<div id='lv-container' data-id='city' data-uid='MTAyMC81Nzc0NC8zNDIwNw=='></div>\n\n----\n"
-              return content + comment;
-          });
-
-          hook.doneEach(function() {
-             (function(d, s) {
-                 var j, e = d.getElementsByTagName(s)[0];
-                 if (typeof LivereTower === 'function') { return; }
-                 j = d.createElement(s);
-                 j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-                 j.async = true;
-                 e.parentNode.insertBefore(j, e);
-             })(document, 'script');
-          });
-        },
-      ],
       search: {
         maxAge: 300000, // 过期时间，单位毫秒，默认一天，目前设为5分钟
         paths: 'auto', // or 'auto'
@@ -122,7 +102,7 @@
         isExpected: true
       },
       timeUpdater: {
-        text: "最后更新时间: {docsify-updated}",
+        text: "> 最后更新时间: {docsify-updated}",
         formatUpdated: "{YYYY}年{MM}月{DD}日{HH}:{mm}",
         whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
       },
