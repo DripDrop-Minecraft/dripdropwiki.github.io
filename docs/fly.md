@@ -11,9 +11,9 @@
 ![经验商店](pics/fly/expshop.png)
 
 + 你可以用4500经验购买飞行药水(10分钟)  
-<img src="pics/icon/fly_potion_small.png" class="icon" alt="飞行药水"/>
+<img src="pics/icon/fly_potion_small.png" style="width:5%" alt="飞行药水"/>
 + 你可以用13500经验购买大瓶飞行药水(30分钟)  
-<img src="pics/icon/fly_potion_large.png" class="icon" alt="大飞行药水"/>
+<img src="pics/icon/fly_potion_large.png" style="width:5%" alt="大飞行药水"/>
 
 ## 🚫 禁止飞行
 副本内是禁止飞行的(因为开飞行打boss很赖皮，没有挑战性了)
