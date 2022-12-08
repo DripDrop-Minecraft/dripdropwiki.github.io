@@ -3,21 +3,68 @@
 <!-- tabs:start -->
 
 #### **桌椅**
+
+![桌椅第1页](pics/furniture/chair1.png ':size=49%') ![桌椅第2页](pics/furniture/chair2.png ':size=49%')
+
 #### **小摆饰**
+
+![小摆饰第1页](pics/furniture/deco1.png ':size=49%') ![小摆饰第2页](pics/furniture/deco2.png ':size=49%')
+
 #### **菜肴**
+
+![菜肴第1页](pics/furniture/dish1.png ':size=49%') ![菜肴第2页](pics/furniture/dish2.png ':size=49%')
+
 #### **盆栽**
+
+![盆栽第1页](pics/furniture/pot1.png ':size=49%') ![盆栽第2页](pics/furniture/pot2.png ':size=49%')
+
 #### **灯饰**
+
+![灯饰第1页](pics/furniture/lantern1.png ':size=49%')
+
 #### **电器**
+
+![电器第1页](pics/furniture/app1.png ':size=49%')
+
 #### **壁饰**
+
+![壁饰第1页](pics/furniture/wall1.png ':size=49%') ![壁饰第2页](pics/furniture/wall2.png ':size=49%')
+
 #### **室内**
+
+![室内第1页](pics/furniture/inroom1.png ':size=49%')
+
 #### **室外**
+
+![室外第1页](pics/furniture/outroom1.png ':size=49%') ![室外第2页](pics/furniture/outroom2.png ':size=49%')
+
 #### **厨房**
+
+![厨房第1页](pics/furniture/kitchen1.png ':size=49%')
+
 #### **卧室**
+
+![卧室第1页](pics/furniture/bedroom1.png ':size=49%')
+
 #### **浴室**
+
+![浴室第1页](pics/furniture/bathroom1.png ':size=49%')
+
 #### **书房**
-#### **商店**
+
+![书房第1页](pics/furniture/study1.png ':size=49%')
+
+#### **超市**
+
+![超市第1页](pics/furniture/supermarket1.png ':size=49%') ![超市第2页](pics/furniture/supermarket2.png ':size=49%')
+
 #### **集市**
+
+![集市第1页](pics/furniture/market1.png ':size=49%')
+
 #### **自然**
+
+![自然第1页](pics/furniture/nature1.png ':size=49%')
 
 <!-- tabs:end -->
 
@@ -52,8 +99,6 @@
 ![确认购买2个](pics/furniture/chairshop5.png)
 
 5. 成功购买后的提示
-
-成功购买后聊天栏会有提示信息
 
 ![成功购买](pics/furniture/successbuy.png)
 
@@ -130,7 +175,10 @@
 
 ![成功染色](pics/furniture/dye3.png)
 
-4. 可以直接输入`/dye <rgb颜色>`
+4. 可以直接输入`/dye <16进制颜色>`
+
+> [!tip]
+> [16进制颜色](text.md#🎨-十六进制颜色)可以查看特殊文本章节
 
 比如你可以输入`/dye #aabbff` 来染色
 

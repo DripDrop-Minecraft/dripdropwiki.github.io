@@ -33,12 +33,12 @@
 
 | 图标                       | 渔产(名字)                  | 重量(千克)              |
 | :------------------------- | :------------------------- | :--------------------- |
-| <img src="pics/fishing/tin_can.png" class="icon" /> |易拉罐 | 0.1-1              |
-| <img src="pics/fishing/driftwood.png" class="icon" /> |浮木 | 1-3                 |
-| <img src="pics/fishing/fish_bones.png" class="icon" /> |鱼骨 | 0.1-2              |
-| <img src="pics/fishing/message_bottle.png" class="icon" /> |漂流瓶 | 0.1-0.4      |
-| <img src="pics/fishing/rotten_rod.png" class="icon" /> |腐坏的钓鱼竿 | 0.1-0.4     |
-| <img src="pics/fishing/birch_boat.png" class="icon" /> |探险者的木船 | 3-10       |
+| ![](pics/fishing/tin_can.png ':size=100%') |易拉罐 | 0.1-1              |
+| ![](pics/fishing/driftwood.png ':size=100%') |浮木 | 1-3                 |
+| ![](pics/fishing/fish_bones.png ':size=100%') |鱼骨 | 0.1-2              |
+| ![](pics/fishing/message_bottle.png ':size=100%') |漂流瓶 | 0.1-0.4      |
+| ![](pics/fishing/rotten_rod.png ':size=100%') |腐坏的钓鱼竿 | 0.1-0.4     |
+| ![](pics/fishing/birch_boat.png ':size=100%') |探险者的木船 | 3-10       |
 
 #### **普通**
 
@@ -46,23 +46,23 @@
 
 | 图标                       | 渔产(名字)                  | 重量(千克)              |
 | :------------------------- | :------------------------- | :--------------------- |
-| <img src="pics/fishing/clam.png" class="icon" /> |蛤蜊 | 0.1-5|
-| <img src="pics/fishing/crab.png" class="icon" /> |螃蟹 | 0.1-2|
-| <img src="pics/fishing/crayfish.png" class="icon" /> |小龙虾 | 0.1-0.2|
-| <img src="pics/fishing/frog.png" class="icon" /> |青蛙 | 0.1-3|
-| <img src="pics/fishing/goldfish.png" class="icon" /> |金鱼 | 0.1-1|
-| <img src="pics/fishing/oyster.png" class="icon" /> |生蚝 | 0.2-0.8 |
-| <img src="pics/fishing/scallop.png" class="icon" /> |扇贝 | 0.3-1.5|
-| <img src="pics/fishing/atlantic_herring.png" class="icon" /> |大西洋鲱鱼 | 0.9-1.5|
-| <img src="pics/fishing/bluegill.png" class="icon" /> |蓝鳃太阳鱼 | 0.5-1.2|
-| <img src="pics/fishing/boulti.png" class="icon" /> |罗非鱼 | 0.8-3|
-| <img src="pics/fishing/brown_shrooma.png" class="icon" /> |褐杉鱼 | 0.1-0.3|
-| <img src="pics/fishing/grassfish.png" class="icon" /> |草鱼 | 0.5-5|
-| <img src="pics/fishing/grouper.png" class="icon" /> |石斑鱼 | 0.3-0.7|
-| <img src="pics/fishing/perch.png" class="icon" /> |鲈鱼 | 4-7|
-| <img src="pics/fishing/red_shrooma.png" class="icon" /> |红杉鱼 | 0.1-0.4|
-| <img src="pics/fishing/sardine.png" class="icon" /> |沙丁鱼 | 0.1-0.2|
-| <img src="pics/fishing/white_pomfret.png" class="icon" /> |白鲳鱼 | 0.2-1.2|
+| ![](pics/fishing/clam.png ':size=100%') |蛤蜊 | 0.1-5|
+| ![](pics/fishing/crab.png ':size=100%') |螃蟹 | 0.1-2|
+| ![](pics/fishing/crayfish.png ':size=100%') |小龙虾 | 0.1-0.2|
+| ![](pics/fishing/frog.png ':size=100%') |青蛙 | 0.1-3|
+| ![](pics/fishing/goldfish.png ':size=100%') |金鱼 | 0.1-1|
+| ![](pics/fishing/oyster.png ':size=100%') |生蚝 | 0.2-0.8 |
+| ![](pics/fishing/scallop.png ':size=100%') |扇贝 | 0.3-1.5|
+| ![](pics/fishing/atlantic_herring.png ':size=100%') |大西洋鲱鱼 | 0.9-1.5|
+| ![](pics/fishing/bluegill.png ':size=100%') |蓝鳃太阳鱼 | 0.5-1.2|
+| ![](pics/fishing/boulti.png ':size=100%') |罗非鱼 | 0.8-3|
+| ![](pics/fishing/brown_shrooma.png ':size=100%') |褐杉鱼 | 0.1-0.3|
+| ![](pics/fishing/grassfish.png ':size=100%') |草鱼 | 0.5-5|
+| ![](pics/fishing/grouper.png ':size=100%') |石斑鱼 | 0.3-0.7|
+| ![](pics/fishing/perch.png ':size=100%') |鲈鱼 | 4-7|
+| ![](pics/fishing/red_shrooma.png ':size=100%') |红杉鱼 | 0.1-0.4|
+| ![](pics/fishing/sardine.png ':size=100%') |沙丁鱼 | 0.1-0.2|
+| ![](pics/fishing/white_pomfret.png ':size=100%') |白鲳鱼 | 0.2-1.2|
 
 #### **稀有**
 
@@ -70,16 +70,16 @@
 
 | 图标                       | 渔产(名字)                  | 重量(千克)              |
 | :------------------------- | :------------------------- | :--------------------- |
-| <img src="pics/fishing/carp.png" class="icon" /> |鲤鱼 | 10-20|
-| <img src="pics/fishing/piranha.png" class="icon" /> |食人鱼 | 1-50|
-| <img src="pics/fishing/gar.png" class="icon" /> |雀鳝鱼 | 15-35|
-| <img src="pics/fishing/eletric_eel.png" class="icon" /> |电鳗 | 15-25|
-| <img src="pics/fishing/catfish.png" class="icon" /> |鲶鱼 | 3-30|
-| <img src="pics/fishing/turtle.png" class="icon" /> |乌龟 | 0.5-20 |
-| <img src="pics/fishing/octopus.png" class="icon" /> |章鱼 | 15-40|
-| <img src="pics/fishing/tofufish.png" class="icon" /> |豆腐鱼 | 0.2-1|
-| <img src="pics/fishing/flyfish.png" class="icon" /> |飞鱼 | 0.1-0.5|
-| <img src="pics/fishing/sea_horse.png" class="icon" /> |海马 | 0.1-0.2|
+| ![](pics/fishing/carp.png ':size=100%') |鲤鱼 | 10-20|
+| ![](pics/fishing/piranha.png ':size=100%') |食人鱼 | 1-50|
+| ![](pics/fishing/gar.png ':size=100%') |雀鳝鱼 | 15-35|
+| ![](pics/fishing/eletric_eel.png ':size=100%') |电鳗 | 15-25|
+| ![](pics/fishing/catfish.png ':size=100%') |鲶鱼 | 3-30|
+| ![](pics/fishing/turtle.png ':size=100%') |乌龟 | 0.5-20 |
+| ![](pics/fishing/octopus.png ':size=100%') |章鱼 | 15-40|
+| ![](pics/fishing/tofufish.png ':size=100%') |豆腐鱼 | 0.2-1|
+| ![](pics/fishing/flyfish.png ':size=100%') |飞鱼 | 0.1-0.5|
+| ![](pics/fishing/sea_horse.png ':size=100%') |海马 | 0.1-0.2|
 
 
 #### **史诗**
@@ -88,11 +88,11 @@
 
 | 图标                       | 渔产(名字)                  | 重量(千克)              |
 | :------------------------- | :------------------------- | :--------------------- |
-| <img src="pics/fishing/jellyfish.png" class="icon" /> |水母 | 2-200|
-| <img src="pics/fishing/swordfish.png" class="icon" /> |剑鱼 | 68-113|
-| <img src="pics/fishing/atlantic_halibut.png" class="icon" /> |大西洋比目鱼 | 150-210|
-| <img src="pics/fishing/tuna.png" class="icon" /> |金枪鱼 | 40-272|
-| <img src="pics/fishing/treasure_chest.png" class="icon" /> |藏宝箱 | 10-70|
+| ![](pics/fishing/jellyfish.png ':size=100%') |水母 | 2-200|
+| ![](pics/fishing/swordfish.png ':size=100%') |剑鱼 | 68-113|
+| ![](pics/fishing/atlantic_halibut.png ':size=100%') |大西洋比目鱼 | 150-210|
+| ![](pics/fishing/tuna.png ':size=100%') |金枪鱼 | 40-272|
+| ![](pics/fishing/treasure_chest.png ':size=100%') |藏宝箱 | 10-70|
 
 #### **传说**
 
@@ -100,9 +100,9 @@
 
 | 图标                       | 渔产(名字)                  | 重量(千克)              |
 | :------------------------- | :------------------------- | :--------------------- |
-| <img src="pics/fishing/calamari.png" class="icon" /> |巨型鱿鱼 | 300-2000|
-| <img src="pics/fishing/stringray.png" class="icon" /> |蝠鲼 | 200-3400|
-| <img src="pics/fishing/whale.png" class="icon" /> |鲸鱼 | 2000-200000|
+| ![](pics/fishing/calamari.png ':size=100%') |巨型鱿鱼 | 300-2000|
+| ![](pics/fishing/stringray.png ':size=100%') |蝠鲼 | 200-3400|
+| ![](pics/fishing/whale.png ':size=100%') |鲸鱼 | 2000-200000|
 
 <!-- tabs:end -->
 
