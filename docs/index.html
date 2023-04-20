@@ -56,6 +56,13 @@
         // the default preset icon in docsify-corner  
         icon: "github", 
       },
+      beian: {
+        ICP: "浙ICP备2023010185号",
+        NISMSP: {
+            number: "",
+            url: "",
+        },
+      },
       auto2top: true,
       mergeNavbar: true,
       loadNavbar: true,
@@ -63,7 +70,7 @@
       loadSidebar: true,
       subMaxLevel: 2,
       auto2top: true,
-      onlyCover: true,
+      onlyCover: false,
       search: 'auto',
       name: 'DripDrop Wiki',
       'flexible-alerts': {
@@ -102,7 +109,7 @@
         isExpected: true
       },
       timeUpdater: {
-        text: "> 最后更新时间: {docsify-updated}",
+        text: "+ 最后更新于: {docsify-updated}",
         formatUpdated: "{YYYY}年{MM}月{DD}日{HH}:{mm}",
         whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
       },
@@ -112,6 +119,11 @@
         theme      : 'classic', // default
         tabComments: true,      // default
         tabHeadings: true       // default
+      },
+      copyCode: {
+        buttonText : '点击复制',
+        errorText  : '错误',
+        successText: '复制'
       }
     }
   </script>
@@ -137,6 +149,10 @@
   <script src="localjs/docsify-corner.js"></script>
   <!-- tab表格 -->
   <script src="localjs/docsify-tabs@1.js"></script>
+  <!-- 备案 -->
+  <script src="localjs/beian.js"></script>
+  <!-- copy-code -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
 </body>
 
 </html>
