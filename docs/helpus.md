@@ -72,10 +72,12 @@
 
 Java版Minecraft在插件开发方面有着独特的开放性。如果你对服务器插件开发感兴趣，掌握一定的开发技术，并且有意向为DripDrop提供有趣有用的扩展功能，那么欢迎你加入开发者的行列。插件可以使用[Java](https://www.liaoxuefeng.com/wiki/1252599548343744)或[Kotlin](https://www.kotlincn.net/docs/reference/basic-syntax.html)语言进行开发，你需要了解这些语言和主流的开发工具[IntelliJ IDEA](https://www.jetbrains.com/idea/)。如果需要了解插件开发，请移步[这里](https://plgdev.xuogroup.top/#/README)。
 
-目前本服有以下服务端插件项目，均基于其他开发者开源的项目代码进行**二次开发和自主维护**，并严格遵守[GPLv3.0](https://www.gnu.org/licenses/quick-guide-gplv3.html)许可证：
+目前本服有以下开源项目，自主开发或基于其他开发者开源的项目代码进行**二次开发和自主维护**，并严格遵守[GPLv3.0](https://www.gnu.org/licenses/quick-guide-gplv3.html)等开源许可证：
 
-+ [AllMusic_DripDrop](https://github.com/Git-a-Live/AllMusic_DripDrop)
-+ [CustomWardrobe](https://github.com/Git-a-Live/CustomWardrobe)
++ [AllMusic_DripDrop_Server](https://github.com/DripDrop-Minecraft/AllMusic_DripDrop_Server)
++ [AllMusic_DripDrop_Client](https://github.com/DripDrop-Minecraft/AllMusic_DripDrop_Client)
++ [DripDrop App](https://github.com/DripDrop-Minecraft/DripDrop_Service_App)
++ [PublicBin for DripDrop](https://github.com/DripDrop-Minecraft/PublicBin)
 
 > 网络安全支持
 
