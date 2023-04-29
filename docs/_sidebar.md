@@ -7,7 +7,7 @@
     * [Hello, DripDrop!](about.md)
     * [小服里有好风光](promote.md)
 * 入服帮助
-    * [游戏安装](installgame.md)
+    * [Java环境配置](java.md)
     * [基础指令](command.md)
     * [入服指南](joinproblem.md)
 * 基础插件
