@@ -2,7 +2,7 @@
     * [🎮 客户端相关](download.md)
     * [➕ 加入服务器](join.md)
     * [💼 服务器资源包](resourcepack.md)
-    * [❓ 常见问题](cantjoin.md)
+    * [❓ 无法游玩？](cantjoin.md)
 * 简单介绍
     * [Hello, DripDrop!](about.md)
     * [小服里有好风光](promote.md)
