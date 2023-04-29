@@ -2,14 +2,14 @@
     * [🎮 客户端相关](download.md)
     * [➕ 加入服务器](join.md)
     * [💼 服务器资源包](resourcepack.md)
-    * [❓ 无法游玩？](cantjoin.md)
-* 简单介绍
-    * [Hello, DripDrop!](about.md)
-    * [小服里有好风光](promote.md)
+    * [❓ 无法游玩问题](cantjoin.md)
+    * [📡 入服指南](joinproblem.md)
 * 入服帮助
     * [Java环境配置](java.md)
     * [基础指令](command.md)
-    * [入服指南](joinproblem.md)
+* 简单介绍
+    * [Hello, DripDrop!](about.md)
+    * [小服里有好风光](promote.md)
 * 基础插件
     * [🏠 领地插件](residence.md)
     * [🧊 方块宠物](companions.md)
