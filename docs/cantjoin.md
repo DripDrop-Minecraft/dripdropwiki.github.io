@@ -112,3 +112,19 @@
 **C 换电脑**
 
 如果你的电脑是亲戚朋友淘汰下来或者垃圾堆里淘来的32位老古董，建议趁早花钱享受64位的新世界。
+
+## ⑤ Internal Exception: java.net.SocketException: Connection reset
+
+#### 问题描述
+
+客户端提示“Internal Exception: java.net.SocketException: Connection reset”（内存溢出），这种情况通常是网络连接出问题，也可能是正版验证服务器无法连接上
+
+#### 解决方案
+
+**A 等待几秒后重新尝试连接**
+
+等待大约4-5秒后，重新尝试进入服务器
+
+**B 在群内寻求帮助**
+
+目前玩家都能通过多次尝试进入服务器，如果你一直无法进入服务器的话可以加群询问

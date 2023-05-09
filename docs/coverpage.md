@@ -15,4 +15,4 @@
 
 <!-- background color -->
 
-![](pics/coverpagebackground.png)
+![](pics/background/summer.png)
