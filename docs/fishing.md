@@ -17,11 +17,11 @@
 
 ## 🥇 排名奖励
 
-+ 第一名奖励为 **5000硬币**
-+ 第二名奖励为 **3000硬币**
-+ 第三名奖励为 **1000硬币**
++ 第一名奖励为 **50000硬币+7金鱼之盒**
++ 第二名奖励为 **30000硬币+5金鱼之盒**
++ 第三名奖励为 **10000硬币+3金鱼之盒**
 
-+ 安慰奖(每个参与但没有名次的玩家)为 **1颗钻石**
++ 安慰奖(每个参与但没有名次的玩家)为 **1金鱼之盒**
 
 ## 🪣 渔产分类
 
@@ -80,6 +80,9 @@
 | ![](pics/fishing/tofufish.png ':size=100%') |豆腐鱼 | 0.2-1|
 | ![](pics/fishing/flyfish.png ':size=100%') |飞鱼 | 0.1-0.5|
 | ![](pics/fishing/sea_horse.png ':size=100%') |海马 | 0.1-0.2|
+| ![](pics/fishing/coralfish.png ':size=100%') |珊瑚鱼 | 10-20       |
+| ![](pics/fishing/gemfish.png ':size=100%') |宝石鱼 | 10-20       |
+| ![](pics/fishing/starfishitem.png ':size=100%') |海星 | 0.1-0.2       |
 
 
 #### **史诗**
@@ -89,7 +92,9 @@
 | 图标                       | 渔产(名字)                  | 重量(千克)              |
 | :------------------------- | :------------------------- | :--------------------- |
 | ![](pics/fishing/jellyfish.png ':size=100%') |水母 | 2-200|
+| ![](pics/fishing/blue_jellyfish.png ':size=100%') |蓝色水母 | 2-200|
 | ![](pics/fishing/swordfish.png ':size=100%') |剑鱼 | 68-113|
+| ![](pics/fishing/slimefish.png ':size=100%') |史莱姆鱼 | 20-30|
 | ![](pics/fishing/atlantic_halibut.png ':size=100%') |大西洋比目鱼 | 150-210|
 | ![](pics/fishing/tuna.png ':size=100%') |金枪鱼 | 40-272|
 | ![](pics/fishing/treasure_chest.png ':size=100%') |藏宝箱 | 10-70|
@@ -109,9 +114,17 @@
  
 ## 💰 出售渔产
 
-输入指令`/emf shop` 打开渔产商店
+首先输入指令`/emf shop` 打开渔产商店
 
+### 全部出售
+点击【全部出售】可以把背包内的所有渔产出售
 
+![全部出售](pics/fishing/sellall.png)
+
+### 部分出售
+将想要出售的鱼拖到上方，点击【部分出售】可以单独出售
+
+![部分出售](pics/fishing/sellsome.png)
 
 <!-- ## 🪱 鱼饵
 
