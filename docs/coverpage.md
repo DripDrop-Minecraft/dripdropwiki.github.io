@@ -9,9 +9,9 @@
 - 温馨和谐
 - 有趣好玩
 
-#### ©2020 - 2023 DripDrop Minecraft Server
+#### ©2023 - 2023 DripDrop Minecraft Server
 
-[开启](homepage.md)
+[开启](README.md)
 
 <!-- background color -->
 

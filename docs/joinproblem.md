@@ -34,53 +34,13 @@
 + <font color=red><b>TIS、PVP、RPG以及生电狂热爱好者</b></font>；
 + 热衷短时间内爆肝/爆刷，并以此为<font color=red>唯一</font>游戏目标和乐趣的玩家。
 
->[!warning]
->古语有云：“以人为镜，可以明得失。”赛博空间有赛博空间的规矩，对于违规者，当然是挂人一时爽，一直挂人一直爽👍。
-
-|   玩家    |                       封禁事由                       |
-| :---------: | :----------------------------------------------: |
-|    <font color=red>nmsl</font>     | 恶意拆毁其他玩家没有圈领地的家，还创小号进来骂人 |
-|   <font color=red>whx233</font>    |         不仅拆别人家，还把别人的箱子锁了         |
-| <font color=red>FuFusuperBa</font> |          明目张胆在服主面前开启飞天外挂          |
-|  <font color=red>SirCakeX</font>   |     开小号偷东西搞破坏，大号转移物资试图洗白     |
-|   <font color=red>_Hzxlzz</font>   |      大量购买火药制作TNT炸别人家还试图隐瞒       |
-|   <font color=red>Gaveme</font>    |       偷老玩家的纪念物品，恶意点火破坏建筑       |
-|   <font color=red>ian3451</font>   |  通过发表不当涉政言论的方式，妨害服务器正常运营  |
-|<font color=red>Diving7</font>|蓄意破坏其他玩家领地周围地理环境，拒绝道歉和恢复|
-|<font color=red>Lanse_Fox</font>|盗窃其他玩家财产|
-|<font color=red>Your_Promise</font>|使用矿透；使用TNT炸毁玩家建筑|
-|<font color=red>Daniel_CK</font>|其它玩家在场情况下公然盗取财物|
-|<font color=red>heimaoyan</font>|恶意破坏玩家建筑|
-|<font color=red>Hello_Z</font>|私自建造更新抑制器和跳略器，恶意卡服|
-|<font color=red>pigeon_games</font>|<font color=red>Hello_Z</font>同伙|
-|<font color=red>pjlwdnmd</font>|使用矿透等作弊mod|
-|<font color=red>SeeleLin</font>|恶意破坏其他玩家建筑|
-|<font color=red>lazlo5334</font>|发消息刷屏，严重影响其他玩家游戏体验|
-|<font color=red>Aceyuhang123</font>|故意破坏玩家物品|
-|<font color=red>Acehangyu123</font>|<font color=red>Aceyuhang123</font>小号|
-|<font color=red>Overmarsone</font>|开挂|
-|<font color=red>xiaohei1314</font>|盗取玩家游戏财产|
-|<font color=red>ILuckeistI</font>|盗窃并破坏其他玩家游戏财产|
-|<font color=red>lezigongxianghao</font>|随意辱骂他人|
-|<font color=red>CappedVeil22207</font>|<font color=red>lezigongxianghao</font>同伙|
-|<font color=red>sansessssss</font>|盗取其他玩家游戏财产，随意将其他玩家建筑圈地占为己有，反复加群退群|
-|<font color=red>1773701869</font>|盗取其他玩家游戏财产，交涉态度恶劣|
-|<font color=red>Loyal_brother</font>|反复加群退群|
-|<font color=red>Ws_John</font>|池沼言行|
-|<font color=red>404Liar</font>|随意辱骂其他玩家|
-|<font color=red>FXDgQ960</font>|违反服务器规则|
-|<font color=red>chenji102</font>|池沼言行|
-|<font color=red>ianu29</font>|盗窃其他玩家游戏财产|
-|<font color=red>xishebdic</font>|<font color=red>ianu29</font>小号|
-|<font color=red>LaoShui456784897</font>|违反服务器规则|
-
-## 玩1.19.X会不会被人恶意举报封号？
+## 玩1.19.X或更高版本会不会被人恶意举报封号？
 
 目前服务器<font color=red><b>停用消息签名功能</b></font>，所有玩家的聊天消息都不会被加上签名（因此游戏中可能会提示“不安全的消息”），即使有人恶意举报，<font color=red><b>未经签名的消息也无法作为证据发挥作用</b></font>。
 
 如果希望进一步加强防护，可以为客户端下载安装[No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)或其他可用的反聊天举报mod。这些mod在客户端就能去除聊天中的签名信息，经过服务器转发之后，就更加难以作为举报证据将聊天消息与特定玩家关联起来，从而避免Mojang的审查。
 
-当然，就目前来看只有Java版本游戏可以通过插件等方式杜绝聊天举报，但是Mojang和微软可能不会只满足于这种程度的自我审查，未来还有诸多变数。需要提醒各位玩家注意的是，目前不要随便进入1.19.X的基岩版服务器游玩，或是在1.19.X基岩版服务器中谨慎发言，以免被某些不怀好意的人盯上。
+当然，就目前来看只有Java版本游戏可以通过插件等方式杜绝聊天举报，但是Mojang和微软可能不会只满足于这种程度的自我审查，未来还有诸多变数。需要提醒各位玩家注意的是，目前不要随便进入高版本基岩版服务器游玩，或是在这些基岩版服务器中谨慎发言，以免被某些不怀好意的人盯上。
 
 ## 我的启动器为什么会崩溃？
 
@@ -94,11 +54,11 @@
 
 ## 服务器支持基岩版玩家登入吗？
 
-不支持。本服务器<font color=red><b>仅支持Java版</b></font>玩家登入，并且短期内不打算，也无法实现Java版与基岩版的互通。
+不支持。目前本服务器<font color=red><b>仅支持Java版</b></font>玩家登入，并且短期内不打算实现Java版与基岩版的互通。
 
 一方面，虽然现在市面上有[Geyser（间歇泉）](https://geysermc.org/)这样的互通插件，但是开发者自己也承认互通插件本质上就是进行了协议转换，而基岩版与Java版之间的差异远远不止于此（尤其是一些数据结构）。当两种版本的玩家同处一个服务器时，将不得不相互妥协，因此很有可能无法完整享受到各自版本带来的全部体验。
 
-另一方面，一个重要的问题是，1.19.X推出聊天举报功能以后，**如果Java版和基岩版进行互通，玩家的游戏安全很可能无法得到任何保证**——基岩版目前还没有阻止消息签名的手段，随意将玩家暴露在这种不可预测的风险之下是无法接受的。
+另一方面，自1.19.X推出聊天举报功能以后，**如果Java版和基岩版进行互通，玩家的游戏安全很可能无法得到任何保证**——基岩版目前还没有阻止消息签名的手段，随意将玩家暴露在这种不可预测的风险之下是无法接受的。
 
 ## 服务器的经济体系是怎样的？
 
@@ -117,7 +77,7 @@ DripDrop的游戏货币名字为 `硬币` ，用于圈地、玩家之间交易�
 
 ## 服务器多久换一次周目？
 
-除非当前周目短期内遭遇重大变故无法继续维持，否则在正常情况下，本服不会随意更换周目，尤其是不会为了时刻紧跟大版本更新（但也不可能长期停留在低版本，在适当条件下会进行版本升级）而换周目。目前已知可以更换（注意不是必须更换）周目的条件应当满足以下几条：
+除非当前周目短期内遭遇重大变故无法继续维持，否则在正常情况下，本服不会随意更换周目，尤其是不会为了时刻紧跟大版本更新（但也不可能长期停留在某个版本，在适当条件下会进行版本升级）而换周目。目前已知可以更换（注意不是必须更换）周目的条件应当满足以下几条：
 
 + 在Minecraft本体发布大版本更新后，社区正式发布**稳定版的服务器核心**；
 + 服务器使用的核心插件（如地图、商店以及副本等）**全部完成版本适配**；
@@ -130,16 +90,15 @@ DripDrop的游戏货币名字为 `硬币` ，用于圈地、玩家之间交易�
 
 一般来说，我**拒绝**，除非你推荐的插件真的很不错。以下为**直接拒绝**的插件：
 
-+   MCMMO插件等一直提供即时反馈的插件；
++ MCMMO插件等一直提供即时反馈的插件；
 
-+   ~~宝石镶嵌，武器强化，装备鉴定等的RPG浓度很高的插件（腐竹发出了王境泽的声音）~~；
++ ~~宝石镶嵌，武器强化，装备鉴定等的RPG浓度很高的插件（腐竹发出了王境泽的声音）~~；
 
-+   Mypet宠物插件（这个插件的AI实在是蠢）；
++ Mypet宠物插件（这个插件的AI实在是蠢）；
 
-+   地皮插件（我觉得在一块一块的地皮上造家很蠢）；
++ 地皮插件（我觉得在一块一块的地皮上造家很蠢）；
 
-+   粘液插件（我们服用Itemsadder就够了）。
-
++ 粘液插件（我们服用Itemsadder就够了）。
 
 ## 我忘记了账号登录密码怎么办？
 
