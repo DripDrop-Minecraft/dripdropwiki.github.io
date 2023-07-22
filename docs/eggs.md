@@ -17,3 +17,9 @@
 坐标 `851,65,-557` 可以领取到 <img src="pics/blue_butterfly.png" class="icon" alt="蓝色蝴蝶翅膀图标"/> `蓝色蝴蝶翅膀`
 
 ![孤独的人彩蛋](pics/butterfly.png) 
+
+测试webhook同步功能
+继续测试
+
+
+22
