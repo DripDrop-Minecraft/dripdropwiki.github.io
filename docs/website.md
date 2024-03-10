@@ -2,10 +2,6 @@
 
 [DripDrop卫星地图](http://txyminecraft.club:8123/) 可以很方便地查看整个生存区的地图。
 
-## MCBBS
-
-[MCBBS](https://www.mcbbs.net/) 是我认为目前最具有影响力的Minecraft中文论坛。
-
 ## SpigotMC
 
 [SpigotMC](https://www.spigotmc.org/) 是国外知名的插件网站，可以找到很多有趣的插件。
