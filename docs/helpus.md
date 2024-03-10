@@ -8,11 +8,7 @@
 
 + 你甚至可以 **发微博、给公众号投稿等等**，在更广阔的互联网世界里向更多Minecraft爱好者宣传我们的服务器。
 
-+ 你还可以在MCBBS通过顶帖的方式，让我们服务器能够被更多人知道。
-
 + <font color=red>请不要跑到其他服去宣传我们服，这种挖墙脚的方式只会拉低别人的印象分</font>。
-
-+ <font color=red>请不要在MCBBS服务器板块之外宣传我们服，因为我们不想无缘无故吃上一记MCBBS铁拳</font>。
 
 ## 帮忙监督
 
@@ -54,7 +50,7 @@
 
 主要是利用MythicMobs插件的技能来实现的技能。
 
-当然如何将技能导入到MMOItems里，你需要阅读[MMOItems的Wiki](https://www.mcbbs.net/thread-696236-1-1.html)。
+当然如何将技能导入到MMOItems里，你需要阅读[MMOItems的Wiki](https://gitlab.com/phoenix-dvpmt/mmoitems/-/wikis/)。
 
 ## 帮助完善Wiki
 
